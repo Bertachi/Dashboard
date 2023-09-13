@@ -12,11 +12,11 @@ Esse projeto é um dashboard responsivo, trabalhando técnica de "menu aside" e 
 <br>
 
 <p align="center">
-  <img src=".github/preview-01.png" width="100%">
+  <img src=".github/Proit.png" width="100%">
 </p>
 
 <p align="center">
-  <img src=".github/preview-02.png" width="100%">
+  <img src=".github/Profit2.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
